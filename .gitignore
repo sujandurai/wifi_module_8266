@@ -1,0 +1,17 @@
+# MPLAB X Build Folders
+build/
+dist/
+nbproject/private/
+nbproject/Makefile-*.mk
+nbproject/Package-*.bash
+
+# Object files and dependencies
+*.o
+*.d
+*.elf
+*.hex
+*.map
+
+# Editor backups
+*~
+*.bak
